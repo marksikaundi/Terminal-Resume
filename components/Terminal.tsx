@@ -27,7 +27,7 @@ function Header() {
           }  py-2 px-8 md:px-10`}
           onClick={() => setActiv('hello')}
         >
-          Hello
+          Home
         </a>
 
         <a
@@ -38,7 +38,7 @@ function Header() {
           }  px-8 py-2 md:px-10`}
           onClick={() => setActiv('about')}
         >
-          About_me
+          About 👇
         </a>
 
         <button
