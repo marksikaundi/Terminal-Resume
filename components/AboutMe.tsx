@@ -42,10 +42,10 @@ function AboutMe() {
               <a className="">
                 * Education: <br />
               </a>
-              * 2020 - 2021 <a className="text-[#ffa000]">SoftUni </a>
+              * 2019 - 2020 <a className="text-[#ffa000]">Coursera </a>
               <br />
-              <a className="text-sm text-sky-700 md:pl-8">Java Fundamentals</a>
-              <br />* 2021 <a className="text-[#a435f0]">Udemy</a>
+              <a className="text-sm text-sky-700 md:pl-8">Advanced Python</a>
+              <br />* 2021 <a className="text-[#a435f0]">University of Michigan</a>
               <br />
               <Link href="https://www.udemy.com/course/the-complete-javascript-course/">
                 <a className="text-sm text-sky-700 md:pl-8">
