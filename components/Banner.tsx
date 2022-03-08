@@ -11,7 +11,7 @@ function Banner() {
             <p>Hello! I&apos;am</p>
             <h1 className="text-5xl">Mark Sikaundi </h1>
             <h2 className="text-2xl text-sky-700">
-              Software Engineer
+              Software Engineer, Data Scientist
             </h2>
             <Hello />
           </div>
