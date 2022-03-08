@@ -9,7 +9,7 @@ function ProjectBox() {
             {' '}
             Project: <a className="text-slate-500">Dealers</a>
           </span>
-          <span className="text-sm text-slate-500"> 36 commits</span>
+          <span className="text-sm text-slate-500"> 100 commits</span>
         </div>
       </div>
       <div className="w-full rounded-lg bg-[#010409] text-slate-500">
@@ -31,7 +31,7 @@ function ProjectBox() {
           </div>
         </div>
         <button className="mb-4 w-full bg-amber-600/90 text-left text-[#010409]">
-          <Link href="https://dealers-aleksrg.vercel.app/">
+          <Link href="https://marksikaundi.vercel.app/">
             <a className="px-4 text-sm font-semibold">see the project</a>
           </Link>
         </button>
