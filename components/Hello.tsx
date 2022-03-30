@@ -15,7 +15,7 @@ function Hello() {
           <br />
           <a className="text-2xl">{'>'}</a>{' '}
           <a className="text-sky-700"> Phone: </a>
-          <a className="text-md">+260 77657 8583</a>
+          <a className="text-md">+260776578583</a>
         </a>
       </Typist>
     </div>

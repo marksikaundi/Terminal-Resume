@@ -27,7 +27,7 @@ function Header() {
           }  py-2 px-8 md:px-10`}
           onClick={() => setActiv('hello')}
         >
-          _hello
+          Home
         </a>
 
         <a
@@ -38,7 +38,7 @@ function Header() {
           }  px-8 py-2 md:px-10`}
           onClick={() => setActiv('about')}
         >
-          _about_me
+          About 👇
         </a>
 
         <button
@@ -49,7 +49,7 @@ function Header() {
           }  px-9 py-2 md:px-10`}
           onClick={() => setActiv('projects')}
         >
-          _snippets
+          Snippets
         </button>
         <a className="w-full border-b border-t border-l border-slate-900 px-10 py-2 text-slate-500 shadow-md shadow-slate-900"></a>
       </div>
